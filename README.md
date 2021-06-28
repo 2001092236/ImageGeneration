@@ -13,3 +13,7 @@
 
 ![generated-images-0106](https://user-images.githubusercontent.com/53979187/123697687-dc0bf600-d865-11eb-83cb-2d0199b39329.png)
 ![generated-images-0107](https://user-images.githubusercontent.com/53979187/123697688-dca48c80-d865-11eb-8099-4c9fff9a3fec.png)
+
+# Ссылка на веса моделей:
+1) генератор: https://drive.google.com/file/d/1A6J_FoORCM05lyD5UbjmX3mn3Xsh7o-G/view?usp=sharing 
+2) дискриминатор: https://drive.google.com/file/d/1A7-7lxTHRLfMIk7OgLPwd3QqRdzz97aF/view?usp=sharing
