@@ -19,3 +19,8 @@
 2) дискриминатор: https://drive.google.com/file/d/1A7-7lxTHRLfMIk7OgLPwd3QqRdzz97aF/view?usp=sharing
 
 # Ссылка на датасет: https://drive.google.com/file/d/1UuYvMPsG2grU-slytlNTJLNNFK1Y2bXS/view?usp=sharing
+
+# Код:
+1) download_data.ipynb - скачивает датасет
+2) work_with_dataset.ipynb - уменьшает размер изображений
+3) net.ipynb - здесь - код модели, ее обучение
