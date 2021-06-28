@@ -17,8 +17,8 @@
 # Ссылка на веса моделей:
 1) генератор: https://drive.google.com/file/d/1A6J_FoORCM05lyD5UbjmX3mn3Xsh7o-G/view?usp=sharing 
 2) дискриминатор: https://drive.google.com/file/d/1A7-7lxTHRLfMIk7OgLPwd3QqRdzz97aF/view?usp=sharing
-
-# Ссылка на датасет: https://drive.google.com/file/d/1UuYvMPsG2grU-slytlNTJLNNFK1Y2bXS/view?usp=sharing
+# Ссылка на датасет: 
+https://drive.google.com/file/d/1UuYvMPsG2grU-slytlNTJLNNFK1Y2bXS/view?usp=sharing
 
 # Код:
 1) download_data.ipynb - скачивает датасет
