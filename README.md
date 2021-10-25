@@ -1,6 +1,6 @@
 # ImageGeneration
-## Сделано: повтор результатов из статьи на датасете обувь (edges2shoes)
-# Примеры сгенерированной обуви:
+## Solving the problem of generating shoes by edges.
+# Examples of generated shoes:
 
 ![generated-images-0100](https://user-images.githubusercontent.com/53979187/123697675-d9a99c00-d865-11eb-9435-d2a491115005.png)
 ![generated-images-0101](https://user-images.githubusercontent.com/53979187/123697677-dadac900-d865-11eb-8a18-43f9dc9a7da6.png)
@@ -14,13 +14,13 @@
 ![generated-images-0106](https://user-images.githubusercontent.com/53979187/123697687-dc0bf600-d865-11eb-83cb-2d0199b39329.png)
 ![generated-images-0107](https://user-images.githubusercontent.com/53979187/123697688-dca48c80-d865-11eb-8099-4c9fff9a3fec.png)
 
-# Ссылка на веса моделей:
-1) генератор: https://drive.google.com/file/d/1A6J_FoORCM05lyD5UbjmX3mn3Xsh7o-G/view?usp=sharing 
-2) дискриминатор: https://drive.google.com/file/d/1A7-7lxTHRLfMIk7OgLPwd3QqRdzz97aF/view?usp=sharing
-# Ссылка на датасет: 
+# Link to model weights:
+1) Generator: https://drive.google.com/file/d/1A6J_FoORCM05lyD5UbjmX3mn3Xsh7o-G/view?usp=sharing 
+2) Discriminator: https://drive.google.com/file/d/1A7-7lxTHRLfMIk7OgLPwd3QqRdzz97aF/view?usp=sharing
+# Dataset link: 
 https://drive.google.com/file/d/1UuYvMPsG2grU-slytlNTJLNNFK1Y2bXS/view?usp=sharing
 
-# Код:
-1) download_data.ipynb - скачивает датасет
-2) work_with_dataset.ipynb - уменьшает размер изображений
-3) net.ipynb - здесь - код модели, ее обучение
+# Code:
+1) download_data.ipynb - downloads dataset
+2) work_with_dataset.ipynb - reduces the size of images
+3) net.ipynb - здесь - model code, its training
